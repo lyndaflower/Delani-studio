@@ -30,4 +30,7 @@ $(document).ready(function(){
         var name = $("#name").val();
         var Email = $("#Email").val();
         var message = $("#message").val();
+        if((name !== "") || (Email !== "") || (message !== "")) {
+            alert(name + " " +"Thank you, we have receive your message");
+        }
 });
