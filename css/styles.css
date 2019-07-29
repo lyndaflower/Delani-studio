@@ -11,3 +11,20 @@
 #icon {
     padding-block-start: 100px;
 }
+.about {
+    text-align: center;
+    padding-block-start: 30px;
+    padding-block-end: 70px;
+    font-weight: bolder;
+}
+.service {
+    background-image: url("../image/s_image.jpg");
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    height: 400px;
+    width: 100%;
+}
+ #main {
+    padding-block-start: 100px;
+} 
