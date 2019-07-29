@@ -36,4 +36,6 @@ $(document).ready(function(){
         else {
             alert(name +" " + "Sorry ! Please fill the form");
         }
+        event.preventDefault();
+    });
 });
