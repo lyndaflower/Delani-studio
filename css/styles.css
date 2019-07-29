@@ -69,4 +69,13 @@ input[type=text],textarea {
     padding-right: 40px;
     text-align: center;
 }
+section {
+    display :flex;
+}
+#first {
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    position: relative;
+}
+
 
