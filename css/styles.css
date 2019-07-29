@@ -45,3 +45,28 @@ input[type=text],textarea {
    padding-block-start: 40px;
    padding-block-end: 100px;
 }
+#name {
+    color: aliceblue;
+}
+#message {
+    height: 300px;
+    width: 70%;
+    color: aliceblue;
+    justify-content: center;
+}
+.social {
+    padding-block-start: 90px;
+    padding-block-end: 40px;
+}
+.footer {
+    text-align: center;
+    font-weight: bold;
+    padding-block-start: 90px;
+}
+#send{
+    background-color: rgb(14, 46, 33);
+    text-align: center;
+    padding-right: 40px;
+    text-align: center;
+}
+
