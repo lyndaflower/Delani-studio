@@ -33,4 +33,7 @@ $(document).ready(function(){
         if((name !== "") || (Email !== "") || (message !== "")) {
             alert(name + " " +"Thank you, we have receive your message");
         }
+        else {
+            alert(name +" " + "Sorry ! Please fill the form");
+        }
 });
