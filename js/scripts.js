@@ -26,4 +26,8 @@ $(document).ready(function(){
         $("#clickable3").show();
         $("#product").hide();
     });
+    $("#send").click(function(event){
+        var name = $("#name").val();
+        var Email = $("#Email").val();
+        var message = $("#message").val();
 });
