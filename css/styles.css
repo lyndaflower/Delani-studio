@@ -32,3 +32,16 @@
     text-align: center;
     padding-block-start: 90px;
 }
+input[type=text],textarea {
+    padding: 6px;
+    background: transparent;
+    color: aliceblue;
+}
+.contact {
+   background-image: url("../image/c_image.jpg");
+   color: #f3efef;
+   text-align: center;
+   font-weight: bold;
+   padding-block-start: 40px;
+   padding-block-end: 100px;
+}
