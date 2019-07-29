@@ -1,5 +1,5 @@
-# {DELANI STUDIO}
-#### Delani studio is studio that approach unifies design,development and product management to create exceptional product., {Date :29 july 2019}
+# DELANI STUDIO
+#### Delani studio is studio that approach unifies design,development and product management to create exceptional product., Date :29 july 2019
 ## Setup/Installation Requirements
 * UBUNTU
 * Visual studio
@@ -14,6 +14,6 @@
 ## Support and contact details
 Any question you can use my Email: umurerwalynda@gmail.com
 ### License
-Copyright (c) {2019} **{Lynda Flower}**
+Copyright (c) {2019} **Lynda Flower**
   
 # Delani-studio
