@@ -13,7 +13,4 @@
 
 ## Support and contact details
 Any question you can use my Email: umurerwalynda@gmail.com
-### License
 Copyright (c) {2019} **Lynda Flower**
-  
-# Delani-studio
